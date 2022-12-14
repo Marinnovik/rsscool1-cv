@@ -24,7 +24,6 @@ I want to get a new profession in RSScool and develop in this direction.
   alert('Hello, word');
 </script>
 ```
-
 ## Education
 
 Belarusian State Technological University
