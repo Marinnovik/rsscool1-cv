@@ -30,6 +30,7 @@ I want to get a new profession in RSScool and develop in this direction.
 Belarusian State Technological University
 
 ## Work experience
+
 * 2003 - 2012 marketing engineer
 * 2012 - 2022 head of marketing and foreign economic activily sector
 
